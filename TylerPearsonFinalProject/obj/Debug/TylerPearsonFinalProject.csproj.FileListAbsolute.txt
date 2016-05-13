@@ -13,3 +13,6 @@ C:\Users\Spyke\Desktop\TylerPearsonFinalProject\TylerPearsonFinalProject\obj\Deb
 C:\Users\Spyke\Desktop\TylerPearsonFinalProject\TylerPearsonFinalProject\bin\Debug\TylerPearsonFinalProject.exe
 C:\Users\Spyke\Desktop\TylerPearsonFinalProject\TylerPearsonFinalProject\bin\Debug\TylerPearsonFinalProject.pdb
 C:\Users\Spyke\Desktop\TylerPearsonFinalProject\TylerPearsonFinalProject\obj\Debug\TylerPearsonFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Spyke\Documents\Projects\Theatre\TylerPearsonFinalProject\bin\Debug\TylerPearsonFinalProject.exe.config
+C:\Users\Spyke\Documents\Projects\Theatre\TylerPearsonFinalProject\obj\Debug\TylerPearsonFinalProject.exe
+C:\Users\Spyke\Documents\Projects\Theatre\TylerPearsonFinalProject\obj\Debug\TylerPearsonFinalProject.pdb
